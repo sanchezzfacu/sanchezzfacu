@@ -4,7 +4,7 @@
 
 ## 🚀 Acerca de mi
 Soy un Frontend developer apasionado por la tecnología y el aprendizaje,
-me encanta todo lo relacionado al front porque me gustan los detalles a las cosas.
+me encanta todo lo relacionado a crear interfaces de usuarios amigables.
 
 Me encuentro en la búsqueda de mi primera experiencia IT y me siento mas preparado que nunca.
 
