@@ -4,15 +4,13 @@
 
 ## 🚀 Acerca de mi
 Soy un Frontend developer apasionado por la tecnología y el aprendizaje,
-me encanta todo lo relacionado a crear interfaces de usuarios amigables.
+me encanta todo lo relacionado a crear interfaces de usuarios.
 
-Me encuentro en la búsqueda de mi primera experiencia IT y me siento mas preparado que nunca.
-
+Me encuentro en la búsqueda de mi primera experiencia IT y me siento mas preparado que nunca y listo para darlo todo.
 
 
 ## 🛠 Skills
-Javascript, React, Redux, SASS, GIT, Github, HTML, PostgreSQL, Node.js, Sequelize, Express.
-
+Javascript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node.js, Sequelize, Express.
 
 
 ## 🔗 Contacto
@@ -21,9 +19,9 @@ Javascript, React, Redux, SASS, GIT, Github, HTML, PostgreSQL, Node.js, Sequeliz
 
 
 👩‍💻 Actualmente me encuentro estudiando para mi inserción en IT a la vez que desarrollo nuevas
-aplicaciones.
+aplicaciones y aprendo nuevas tecnologías.
 
-🧠 Aprendiendo NextJs y afianzando bien SASS actualmente.
+🧠 Aprendiendo NextJs y afianzando conocimientos en SASS.
 
 
 
