@@ -1,27 +1,21 @@
 
-# Hola, soy Facundo Sánchez 👋
+# Hio, I am Facundo Sanchez 👋
 
-
-## 🚀 Acerca de mi
-Soy un Frontend developer apasionado por la tecnología y el aprendizaje,
-me encanta todo lo relacionado a crear interfaces de usuarios.
-
-Me encuentro en la búsqueda de mi primera experiencia IT y me siento mas preparado que nunca y listo para darlo todo.
+## 🚀 About me
+I'm a frontend developer seeking my first IT experience. I felt prepared to reach that goal.
+Developing user interfaces is where I have found my passion and that's the reason why I'm currently developing my frontend skills. 
+I'm very passionate about technology and knowledge, so I'm constantly learning new things not necessarily related to coding.
 
 
 ## 🛠 Skills
-Javascript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node.js, Sequelize, Express.
+Javascript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Express.
 
 
-## 🔗 Contacto
+## 🔗 Contact
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfolio-sanchezzfacu.vercel.app/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanchezzfacu/)
 
 
-👩‍💻 Actualmente me encuentro estudiando para mi inserción en IT a la vez que desarrollo nuevas
-aplicaciones y aprendo nuevas tecnologías.
+👩‍💻Currently studying and continue developing my skills to get that first IT experience while I develop freelance projects.
 
-🧠 Aprendiendo NextJs y afianzando conocimientos en SASS.
-
-
-
+If you're interested in a curious person that is motivated and ready to give his all don't hesitate to contact me.
