@@ -1,5 +1,5 @@
 
-# Hio, I am Facundo Sanchez 👋
+# Hi, I am Facundo Sanchez 👋
 
 ## 🚀 About me
 I'm a frontend developer seeking my first IT experience. I felt prepared to reach that goal.
