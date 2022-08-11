@@ -18,4 +18,4 @@ Javascript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Exp
 
 👩‍💻Currently studying and continue developing my skills to get that first IT experience while I develop freelance projects.
 
-If you're interested in a curious person that is motivated and ready to give his all don't hesitate to contact me.
+If you're interested in a curious person that is motivated and ready to give his all, don't hesitate to contact me.
