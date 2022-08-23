@@ -8,7 +8,7 @@ I'm very passionate about technology and knowledge, so I'm constantly learning n
 
 
 ## 🛠 Skills
-Javascript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Express.
+JavaScript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Express.
 
 
 ## 🔗 Contact
