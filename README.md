@@ -2,7 +2,7 @@
 # Hi, I am Facundo Sanchez 👋
 
 ## 🚀 About me
-I'm a frontend developer searching for my first IT experience.
+I'm a frontend developer looking for my first IT experience.
 Developing user interfaces is where I have found my passion and that's the reason why I'm currently developing my frontend skills by learning new things. 
 I'm very passionate about technology and everything related to code.
 
