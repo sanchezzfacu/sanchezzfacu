@@ -3,7 +3,7 @@
 
 ## 🚀 About me
 I'm a frontend developer looking for my first IT experience.
-Developing user interfaces is where I have found my passion and that's the reason why I'm currently developing my frontend skills by learning new things. 
+Developing user interfaces is where I have found my passion and that's the reason why I'm currently developing my frontend skills by learning new things and building projects. 
 I'm very passionate about technology and everything related to code.
 
 
