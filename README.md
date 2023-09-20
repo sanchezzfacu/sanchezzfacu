@@ -8,7 +8,7 @@ I'm very passionate about technology and everything related to code.
 
 
 ## 🛠 Skills
-JavaScript, TypeScript, React, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Express.
+JavaScript, TypeScript, React, Next Js, Tailwind, Redux, CSS, SASS, GIT, HTML, PostgreSQL, Node, Sequelize, Express.
 
 
 ## 🔗 Contact
